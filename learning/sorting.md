@@ -1,6 +1,6 @@
 ## Merge Sort
 
-![image info](./resources/mergesort.jpg)
+![image info](../resources/mergesort.jpg)
 
 ```
 step 1: start
@@ -129,7 +129,7 @@ Time Complexity: O(n log n)
 ## Quick Sort
 -------------
 
-![image info](./resources/quicksort.jpg)
+![image info](../resources/quicksort.jpg)
 
 ```java
 static void quickSort(int[] arr, int low, int high)
